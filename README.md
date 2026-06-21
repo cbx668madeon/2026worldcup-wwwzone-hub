@@ -1,2 +1,14 @@
 # 2026worldcup-wwwzone-hub
-HTML page archive and documentation
+
+自动页面托管记录
+
+这里用于保留自动生成页面的文件记录和基本仓库信息。
+
+## 文件归档
+
+- HTML 页面用于访问展示
+- README 用于说明归档用途
+
+## 提交说明
+
+页面文件由程序提交，提交历史可作为变更记录参考。
